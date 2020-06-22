@@ -1,0 +1,5 @@
+{
+	"ProjectName": "Golang Project Template",
+	"ProjectDescription": "Bootstrap template for golang projects",
+	"LocalPrefix": "github.com/therealssj/boilr-golang"
+}
